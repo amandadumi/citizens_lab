@@ -1,0 +1,9 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[1] Config.pm:327> INFO - Logfile is 'day1_introduction_presentation.blg'
+[75] biber-darwin:276> INFO - === Thu Sep 14, 2017, 09:54:25
+[75] Biber.pm:333> INFO - Reading 'day1_introduction_presentation.bcf'
+[222] Biber.pm:645> INFO - Found 1 citekeys in bib section 0
+[249] Biber.pm:2977> INFO - Processing section 0
+[276] Biber.pm:3115> INFO - Looking for bibtex format file 'qmc_solids.bib' for section 0
+[404] Utils.pm:162> ERROR - Cannot find 'qmc_solids.bib'!
+[404] Biber.pm:110> INFO - ERRORS: 1

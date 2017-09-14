@@ -1,0 +1,9 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[1] Config.pm:327> INFO - Logfile is 'day0_first_day.blg'
+[79] biber-darwin:276> INFO - === Thu Sep 14, 2017, 09:48:58
+[80] Biber.pm:333> INFO - Reading 'day0_first_day.bcf'
+[224] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[224] Utils.pm:146> WARN - The file 'day0_first_day.bcf' does not contain any citations!
+[255] bbl.pm:505> INFO - Writing 'day0_first_day.bbl' with encoding 'ascii'
+[255] bbl.pm:596> INFO - Output to day0_first_day.bbl
+[255] Biber.pm:106> INFO - WARNINGS: 1

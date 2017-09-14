@@ -1,0 +1,9 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'day3_advanced_presentation.blg'
+[70] biber-darwin:276> INFO - === Thu Sep 14, 2017, 10:00:49
+[71] Biber.pm:333> INFO - Reading 'day3_advanced_presentation.bcf'
+[222] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[223] Utils.pm:146> WARN - The file 'day3_advanced_presentation.bcf' does not contain any citations!
+[253] bbl.pm:505> INFO - Writing 'day3_advanced_presentation.bbl' with encoding 'ascii'
+[253] bbl.pm:596> INFO - Output to day3_advanced_presentation.bbl
+[253] Biber.pm:106> INFO - WARNINGS: 1
