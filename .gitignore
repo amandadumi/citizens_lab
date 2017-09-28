@@ -1,4 +1,4 @@
 presentation/
 week0_firstday/
-__pycache__
-.ipynb_checkpoints
+*/__pycache__
+*/.ipynb_checkpoints
