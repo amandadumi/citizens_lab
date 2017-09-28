@@ -1,8 +1,0 @@
-\frametitle{for loops}
-Loop that allows us to iterate through a list of items.
-\begin{verbatim}
-for i in range(10):
-    do some task
-
-main code continues
-\end{verbatim}

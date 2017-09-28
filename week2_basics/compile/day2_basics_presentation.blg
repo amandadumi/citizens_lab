@@ -1,9 +1,0 @@
-[0] Config.pm:324> INFO - This is Biber 2.1
-[0] Config.pm:327> INFO - Logfile is 'day2_basics_presentation.blg'
-[82] biber-darwin:276> INFO - === Thu Sep 14, 2017, 09:57:39
-[82] Biber.pm:333> INFO - Reading 'day2_basics_presentation.bcf'
-[235] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
-[235] Utils.pm:146> WARN - The file 'day2_basics_presentation.bcf' does not contain any citations!
-[269] bbl.pm:505> INFO - Writing 'day2_basics_presentation.bbl' with encoding 'ascii'
-[269] bbl.pm:596> INFO - Output to day2_basics_presentation.bbl
-[270] Biber.pm:106> INFO - WARNINGS: 1
