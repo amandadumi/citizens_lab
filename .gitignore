@@ -1,0 +1,6 @@
+Makefile
+compile/
+images/
+__pycache__
+.ipynb_checkpoints
+
