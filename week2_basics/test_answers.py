@@ -29,7 +29,7 @@ def check_forloop2(variable):
         print('You are incorrect. Try again!')
 
 def check_fuelcells(fcn):
-    if fcn=8:
+    if fcn==8:
         print('Your fuel cell calculation is correct! Great job!')
     else:
         print('Your fuel cell calculation is incorrect! Try again!')
