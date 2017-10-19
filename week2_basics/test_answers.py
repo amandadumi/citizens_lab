@@ -1,7 +1,7 @@
 
 
 
-def check_forloop2(start,end,step_size,value):
+def check_forloop1(start,end,step_size,value):
     if start==10:
         print('Your start variable is correct! Great job!')
     else:
@@ -18,15 +18,15 @@ def check_forloop2(start,end,step_size,value):
         print('Your value variable is correct! Great job!')
     else:
         print('Your value variable is incorrect! Try again!')
-
-def check_forloop2(variable):
-    x_temp=0
-    for i in range(21):
-        x_temp += (x_temp + 31)/94
-    if variable==x_temp:
-        print('You are correct! Great job!')
-    else:
-        print('You are incorrect. Try again!')
+#
+# def check_forloop2(variable):
+#     x_temp=0
+#     for i in range(21):
+#         x_temp += (x_temp + 31)/94
+#     if variable==x_temp:
+#         print('You are correct! Great job!')
+#     else:
+#         print('You are incorrect. Try again!')
 
 def check_fuelcells(fcn):
     if fcn==8:
