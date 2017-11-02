@@ -9,3 +9,4 @@ week0_firstday/
 *.out
 *.synctex.gz
 *.tex
+Makefile
