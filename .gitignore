@@ -2,3 +2,10 @@ presentation/
 week0_firstday/
 */__pycache__
 */.ipynb_checkpoints
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.tex
