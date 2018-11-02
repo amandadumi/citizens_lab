@@ -19,7 +19,7 @@ def check_z(x_variable):
 
 
 def check_math_operation(add, subtract, multiply, divide, exponent, modulus):
-    if add == (1745-8765.1):
+    if add == (1745+8765.1):
         print('Your variable ADD is correct! Wonderful')
     else:
         print('Your variable ADD is incorrect! Try again.')
